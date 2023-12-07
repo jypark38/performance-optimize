@@ -2,6 +2,10 @@
 
 '프론트엔드 개발자를 위한, 실전 웹 성능 최적화(feat. React) - Part. 1' 1번째 강의 소스입니다.
 
+```
+node version 16
+```
+
 ### 실행
 
 1. download sources
@@ -42,7 +46,3 @@ $ npm run serve
 or
 $ yarn serve
 ```
-
-### 질문
-
-궁금하신 부분은 강의 내 질문 & 답변 게시판 또는 해당 레포지토리의 Issues를 이용해주시기 바랍니다.
